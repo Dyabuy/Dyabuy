@@ -1,4 +1,1 @@
--apt update (enter)
--cd Tool-X (enter)
--chmod +x install (enter)
--sh install (enter)
+
